@@ -1,5 +1,5 @@
 # Instagram-API-using-Go
-A HTTP JSON API, designed and developed using Go which is capable of the following functionalities. Only standard Packages/libraries are used along mith mongo-driver package.
+A HTTP JSON API, designed and developed using Go which is capable of the following functionalities. Only standard Packages/libraries are used along with mongo-driver package.
 
 <h2>Functionalities</h2>
 Design and Develop an HTTP JSON API capable of the following operations,
